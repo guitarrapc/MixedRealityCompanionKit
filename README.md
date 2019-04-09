@@ -1,3 +1,7 @@
+Changed: HoloLensCommander to obtain Blob stored hololens package and install directly into hololelens.
+
+This feature enable you not need to build on local or download ci artifact.
+
 # MixedRealityCompanionKit
 Mixed Reality Companion Kit -- This is a MixedRealityToolkit style repository for code bits and components that may not run directly on Microsoft HoloLens or immersive headsets but instead pair with them to build experiences targeting Windows Mixed Reality.
 
